@@ -1,2 +1,2 @@
 # MPIHolaMundo
-Explicacón de MPI en lenguaje C. Uso de las funciones mas utilies.
+Explicacón de MPI en lenguaje C. Uso de las funciones mas utiles.
